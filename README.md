@@ -2,7 +2,7 @@
 
 A ready-to-use **custom configuration for Windhawk** that transforms your Windows experience with optimized mods, tweaks, and UI improvements 🚀
 
----
+
 
 ## ✨ What is This?
 
@@ -14,7 +14,7 @@ This repository contains my **personal Windhawk setup** — including:
 
 Instead of manually setting everything up, you can **restore my config in 1 click** 😎
 
----
+
 
 ## 🧠 About Windhawk
 
@@ -25,7 +25,7 @@ Windhawk is a lightweight, open-source tool that lets you customize Windows beha
 ✔ UI improvements
 ✔ Advanced system behavior changes
 
----
+
 
 ## 🔗 Required Downloads
 
@@ -39,7 +39,7 @@ Before using this config, install these:
 
 👉 [https://github.com/scorpion421/Windhawk-Services-Backup-Utility](https://github.com/scorpion421/Windhawk-Services-Backup-Utility)
 
----
+
 
 ## 🚀 How to Use This Config
 
@@ -49,14 +49,14 @@ Before using this config, install these:
 2. Run installer
 3. Open Windhawk after installation
 
----
+
 
 ### 🔹 Step 2: Download This Repo
 
 * Click **Code → Download ZIP**
 * Extract it anywhere on your PC
 
----
+
 
 ### 🔹 Step 3: Restore My Config
 
@@ -67,7 +67,7 @@ Before using this config, install these:
 
 🎉 That’s it — your setup will now match my configuration!
 
----
+
 
 ## 🔄 Important Notes
 
@@ -76,7 +76,7 @@ Before using this config, install these:
 * 🧪 Works best on updated Windows 10/11
 * 💡 If something breaks, just restore your old backup
 
----
+
 
 ## 💾 Backup Your Own Setup
 
@@ -86,7 +86,7 @@ You can also save your own config:
 2. Click **Backup**
 3. Save file anywhere
 
----
+
 
 ## 🤝 Contribute / Customize
 
@@ -96,7 +96,7 @@ Feel free to:
 * ⭐ Star this repo
 * 🍴 Fork and share your version
 
----
+
 
 ## ⚠️ Disclaimer
 
@@ -104,7 +104,7 @@ Feel free to:
 * Always create a backup before restoring
 * Use at your own risk (standard for system tweaks)
 
----
+
 
 ## ❤️ Credits
 
