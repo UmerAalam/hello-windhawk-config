@@ -19,7 +19,8 @@ Instead of manually setting everything up, you can **restore my config in 1 clic
 <img width="1920" height="1080" alt="FileExplorer" src="https://github.com/user-attachments/assets/6939f724-560b-4ada-8569-c44d92822a69" />
 
 
-Wallpaper Link : https://4kwallpapers.com/technology/hello-mosaic-25567.html
+Wallpaper :- https://4kwallpapers.com/technology/hello-mosaic-25567.html
+Cursor Pack :- https://jepricreations.com/products/w11-cursor-concept-free 
 
 ## 🧠 About Windhawk
 
